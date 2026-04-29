@@ -3,7 +3,7 @@ Bu projede lora hakkında örnek kodlar ve potansiyel hatalar olacaktır. Asıl 
 
 Mevzu Bahis lora modülü, mikrodenetleyici olarak Deneyap Kart aracılığıyla iletişim kurmuştur.
 
-#PROJE HALA GELİŞTİRİLMEKTEDİR
+#PROJE HALA GELİŞTİRİLMEKTEDİR#
 
 Destekleri için Mertcan, Şevval ve Talha Hocalarıma teşekkür ederim. 
 
